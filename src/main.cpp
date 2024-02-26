@@ -1,5 +1,5 @@
 #include <iostream>
-#include "Includes/Logs/Logs.h"
+#include "Includes/Logger/Logs.h"
 #include "Includes/Configuration/Configuration.h"
 #include <vector>
 #include <cstring>

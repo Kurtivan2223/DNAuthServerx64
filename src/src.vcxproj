@@ -141,14 +141,14 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Includes\Configuration\Configuration.cpp" />
-    <ClCompile Include="Includes\Logs\Logs.cpp" />
+    <ClCompile Include="Includes\Logger\Logs.cpp" />
     <ClCompile Include="Includes\MD5\md5.cpp" />
     <ClCompile Include="Includes\Utility\Utility.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Includes\Configuration\Configuration.h" />
-    <ClInclude Include="Includes\Logs\Logs.h" />
+    <ClInclude Include="Includes\Logger\Logs.h" />
     <ClInclude Include="Includes\MD5\md5.h" />
     <ClInclude Include="Includes\Utility\Utility.h" />
   </ItemGroup>

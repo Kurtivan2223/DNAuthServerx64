@@ -33,9 +33,6 @@
     <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Includes\Logs\Logs.cpp">
-      <Filter>Includes\Logs</Filter>
-    </ClCompile>
     <ClCompile Include="Includes\Utility\Utility.cpp">
       <Filter>Includes\Utility</Filter>
     </ClCompile>
@@ -45,11 +42,11 @@
     <ClCompile Include="Includes\MD5\md5.cpp">
       <Filter>Includes\MD5</Filter>
     </ClCompile>
+    <ClCompile Include="Includes\Logger\Logs.cpp">
+      <Filter>Includes\Logs</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Includes\Logs\Logs.h">
-      <Filter>Includes\Logs</Filter>
-    </ClInclude>
     <ClInclude Include="Includes\Utility\Utility.h">
       <Filter>Includes\Utility</Filter>
     </ClInclude>
@@ -58,6 +55,9 @@
     </ClInclude>
     <ClInclude Include="Includes\MD5\md5.h">
       <Filter>Includes\MD5</Filter>
+    </ClInclude>
+    <ClInclude Include="Includes\Logger\Logs.h">
+      <Filter>Includes\Logs</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
